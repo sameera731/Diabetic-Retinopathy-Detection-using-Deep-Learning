@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.h5
+*.ckpt
+.ipynb_checkpoints
+colored_images/
+models/
