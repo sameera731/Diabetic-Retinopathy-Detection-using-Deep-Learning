@@ -21,8 +21,8 @@ Diabetic-Retinopathy-Detection/
 │── train.ipynb
 │ 
 │
-│── retino_model.h5(Generated after training)
-│ 
+│── models
+|      └──retino_model.h5(Generated after training)
 │
 │── templates/
 │ └── index.html
